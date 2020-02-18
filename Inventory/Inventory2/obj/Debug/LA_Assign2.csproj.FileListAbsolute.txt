@@ -1,0 +1,19 @@
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\Assignment2\LA_Assign2\LA_Assign2\obj\Debug\LA_Assign2.csprojAssemblyReference.cache
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\Assignment2\LA_Assign2\LA_Assign2\obj\Debug\LA_Assign2.Form1.resources
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\Assignment2\LA_Assign2\LA_Assign2\obj\Debug\LA_Assign2.Properties.Resources.resources
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\Assignment2\LA_Assign2\LA_Assign2\obj\Debug\LA_Assign2.csproj.GenerateResource.cache
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\Assignment2\LA_Assign2\LA_Assign2\obj\Debug\LA_Assign2.csproj.CoreCompileInputs.cache
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\Assignment2\LA_Assign2\LA_Assign2\bin\Debug\LA_Assign2.exe.config
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\Assignment2\LA_Assign2\LA_Assign2\bin\Debug\LA_Assign2.exe
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\Assignment2\LA_Assign2\LA_Assign2\bin\Debug\LA_Assign2.pdb
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\Assignment2\LA_Assign2\LA_Assign2\obj\Debug\LA_Assign2.exe
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\Assignment2\LA_Assign2\LA_Assign2\obj\Debug\LA_Assign2.pdb
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\Assignment2 - submitted\LA_Assign2\LA_Assign2\bin\Debug\LA_Assign2.exe.config
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\Assignment2 - submitted\LA_Assign2\LA_Assign2\bin\Debug\LA_Assign2.exe
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\Assignment2 - submitted\LA_Assign2\LA_Assign2\bin\Debug\LA_Assign2.pdb
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\Assignment2 - submitted\LA_Assign2\LA_Assign2\obj\Debug\LA_Assign2.csprojAssemblyReference.cache
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\Assignment2 - submitted\LA_Assign2\LA_Assign2\obj\Debug\LA_Assign2.Form1.resources
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\Assignment2 - submitted\LA_Assign2\LA_Assign2\obj\Debug\LA_Assign2.Properties.Resources.resources
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\Assignment2 - submitted\LA_Assign2\LA_Assign2\obj\Debug\LA_Assign2.csproj.GenerateResource.cache
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\Assignment2 - submitted\LA_Assign2\LA_Assign2\obj\Debug\LA_Assign2.exe
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\Assignment2 - submitted\LA_Assign2\LA_Assign2\obj\Debug\LA_Assign2.pdb

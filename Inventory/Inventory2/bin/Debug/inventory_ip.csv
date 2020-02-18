@@ -1,0 +1,36 @@
+Id,Item Name,StartingQty,QtyMinRestck,QtySold,QtyRStcked,UnitPrice
+85-0521031,Shampoo,35,9,0,0,2.89
+68-8315569,Conditioner,2,6,0,0,2.89
+27-8812415,Dandruff Shampoo,3,10,0,0,4.99
+51-7074017,Body Wash,100,9,0,0,1
+61-9280111,Bar Soap,98,5,0,0,0.4
+29-0793220,Hand Soap,79,5,0,0,5.69
+31-1737425,Razor Blades,31,6,0,0,6
+18-4942228,Shaving Cream,27,7,0,0,1.24
+12-9819201,Feminine Products,9,6,0,0,5.49
+14-3114598,Women's Deodorant,96,6,0,0,1.99
+00-5137328,Men's Deodorant,68,7,0,0,2
+84-4242827,Toothpaste,73,8,0,0,1
+47-7101192,Toothbrushes,53,6,0,0,0.94
+16-8978488,Floss,97,7,0,0,1.79
+22-3320430,Lotion,64,7,0,0,3.19
+24-2046649,Excema Cream,94,9,0,0,10.79
+53-2177802,Hydrocortizone Cream,73,9,0,0,4.19
+10-9378660,Diapers,86,5,0,0,27.54
+55-1555798,Wipes,46,7,0,0,14.49
+80-8933959,Baby Wash,27,5,0,0,4
+11-0566265,Lightbulbs,3,6,0,0,5.99
+76-1671038,Dish Soap,38,8,0,0,1.87
+05-7630078,Laundry Detergent,61,8,0,0,10.34
+93-6963020,Dishwasher Detergent,99,8,0,0,3.44
+34-7426685,Air Filters,90,8,0,0,16
+58-0832802,Vacuum Bags,35,7,0,0,5.49
+45-0767367,All Purpose Cleaner,5,7,0,0,3.54
+49-2584646,Toilet Paper,48,6,0,0,0.68
+74-6484488,Paper Towels,91,7,0,0,1
+03-7977826,Tissues,19,5,0,0,3
+76-6283464,Chapsticks,22,9,0,0,2
+37-7133522,Pens,71,9,0,0,4
+38-7098446,Cat Food,90,10,0,0,12.79
+42-0451242,Cat Litter,21,9,0,0,7.49
+85-8935417,Trash Bags,89,5,0,0,4

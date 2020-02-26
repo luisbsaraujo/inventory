@@ -1,5 +1,5 @@
 # inventory
-C# app to control basic inventory
+A C# app to control basic inventory
 
 # Info
 
